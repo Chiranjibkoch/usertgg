@@ -66,8 +66,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/Give_Me_Heart"),
-                Button.url("ʏᴏᴜᴛᴜʙᴇ ☀︎︎", "https://www.youtube.com/c/JankariKiDuniya"),
+                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/INDIAN_SINGING_GROUPP"),
+                Button.url("ᴄʜᴀɴɴᴇʟ☀︎︎", "https://t.me/IND_BRAND"),
             ]
         ),
     )
